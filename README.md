@@ -25,6 +25,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prototypeX-sys&style=flat-square&color=blue" />
+</p>
+
 ## 👤 About Me
 
 I am a STEM student at the **National Scientific High School of Bobo-Dioulasso (LSNB)** passionate about **Artificial Intelligence, Software Development, Cybersecurity, and Educational Technology**.
@@ -113,19 +117,11 @@ Cryptography project implementing classical encryption techniques.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prototypeX-sys&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prototypeX-sys&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prototypeX-sys&margin-w=10&no-bg=true&no-frame=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prototypeX-sys&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prototypeX-sys&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prototypeX-sys&layout=compact&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -140,15 +136,13 @@ Cryptography project implementing classical encryption techniques.
 - Hackathons & Competitions  
 
 ---
-
 ## 🗺️ Roadmap
 
-2026 ───────────────────────────────────────────────► 2028
- │                     │                     │
- ▼                     ▼                     ▼
-Grow CyberMinds     Launch AI Tools      Build a Startup
-to 1000+ Members    for Education        with Real Impact
+### 2026 → 2028
 
+- 🚀 **2026:** Grow CyberMinds to 1000+ members + improve AI projects
+- 🤖 **2027:** Build advanced AI tools & educational platforms
+- 🌍 **2028:** Launch startup focused on AI & education impact
 
 ---
 
@@ -157,6 +151,12 @@ to 1000+ Members    for Education        with Real Impact
 Artificial Intelligence • Cybersecurity • Software Engineering • Data Science • STEM Education • Innovation • Entrepreneurship
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prototypeX-sys&margin-w=10&no-frame=true&no-bg=true" />
+</p>
 
 ## 🔗 Connect With Me
 
