@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="banner.jpeg" alt="CyberMinds Banner" />
-</p>
-
 <!-- TITLE -->
 <h1 align="center">Hi, I'm Josaphat Sanogo 👋</h1>
 
